@@ -1,1 +1,1 @@
-Develop for University projects
+Developed for University projects
